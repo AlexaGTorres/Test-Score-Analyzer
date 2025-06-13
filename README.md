@@ -19,8 +19,3 @@ This project is a complete LC-3 Assembly program that allows the user to input f
   - Stack usage for temporary register storage
   - Control flow with loops and branching
   - Clean and readable ASCII output
-
----
-
-## Project Structure
-
